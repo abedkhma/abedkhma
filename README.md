@@ -1,6 +1,6 @@
 # Hi, I'm Abdalla Mahamid 👋
 
-Full-stack developer and CS graduate based Germany.  
+CS graduate based Germany.  
 I build production systems end-to-end — from database design to deployment.
 
 ---
