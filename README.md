@@ -2,7 +2,7 @@
 
 CS graduate based in Germany. I build production systems end-to-end — from database design and distributed architecture to deployment and operations.
 
-Currently administering two organizations with production platforms serving real users.
+Currently administering two organizations KHS-Glass and Clarifood with production platforms serving real users.
 
 ---
 
